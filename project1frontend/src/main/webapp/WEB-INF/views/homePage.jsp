@@ -16,11 +16,11 @@
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
+ï¿½ <ol class="carousel-indicators">
+ï¿½ï¿½ï¿½ <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+ï¿½ï¿½ï¿½ <li data-target="#myCarousel" data-slide-to="1"></li>
+ï¿½ï¿½ï¿½ <li data-target="#myCarousel" data-slide-to="2"></li>
+ï¿½ï¿½ï¿½ <li data-target="#myCarousel" data-slide-to="3"></li>
     <li data-target="#myCarousel" data-slide-to="4"></li>
  </ol>
  <div class="carousel-inner" role="listbox">
@@ -29,7 +29,7 @@
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>WELCOME TO THE CAR STORE</h1>
-                            <p>Here You Can Browse And Buy Cars.Order Now For Your Amazing New Arrivals</p>
+                            <p>Here You Can Browse And Buy Cars.Order Now For an Amazing New Arrivals</p>
                         </div>
                     </div>
                 </div>

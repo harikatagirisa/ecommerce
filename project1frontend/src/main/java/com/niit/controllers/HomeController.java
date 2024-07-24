@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HomeController {
 	public HomeController(){
-		System.out.println("homeController bean is created..");
+		System.out.println("homeController bean is created by harika..");
 	}
     @RequestMapping("/home")
 	public String homePage(){
